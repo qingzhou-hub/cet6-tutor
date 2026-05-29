@@ -1,0 +1,13 @@
+# User-specific data
+user_data/
+temp/
+data/mp3/
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
