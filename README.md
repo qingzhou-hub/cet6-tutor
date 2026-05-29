@@ -1,0 +1,2 @@
+# cet6-tutor
+根据Astrobot插件库的模板搭建的可以在HermesAgent中使用的skill
