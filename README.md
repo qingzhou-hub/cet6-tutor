@@ -1,6 +1,7 @@
 # 🎓 CET-6 Tutor — 六级金牌私教
 
 Hermes Agent skill：英语六级备考助手，支持阅读真题、听力练习、艾宾浩斯记忆背单词。
+原作者仓库地址:https://github.com/202704948-design/astrbot_plugin_cet6
 
 ## 快速安装
 
